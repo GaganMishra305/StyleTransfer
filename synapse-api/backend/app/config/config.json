@@ -1,0 +1,17 @@
+{
+    "text_model" : {
+        "model_name": "llama-3.3-70b-versatile",
+        "max_tokens": 2048,
+        "temperature": 0.5,
+        "top_p": 1.0,
+        "stop": "None",
+        "stream": "False"
+    },
+    "image_model" : {
+    },
+    "audio_model" : {
+    },
+    "chat_config" : {
+        
+    }
+}

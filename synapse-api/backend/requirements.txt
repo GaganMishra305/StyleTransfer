@@ -1,0 +1,18 @@
+# api building
+fastapi[standard]
+
+# testing
+pytest
+
+#config
+pydantic-settings
+
+#data validation
+pydantic
+
+# llm
+groq
+
+# database
+# sqlalchemy
+# pinecone-client
